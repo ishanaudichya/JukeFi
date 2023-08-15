@@ -1,4 +1,6 @@
 # JukeFi 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/048967c9-6afa-4c2f-b4f4-8a58b34cde77/deploy-status)](https://app.netlify.com/sites/jukefi-audichyaishan/deploys)
+
 Jukebox for Lofi Songs T~T  <br>
 v1.0.1
 <a href="https://jukefi-audichyaishan.netlify.app/">
@@ -42,9 +44,9 @@ This project is licensed under the [MIT License](LICENSE).<br>
 
 <br><br>
 
-<b>All the images and logos are designed by me</b>
+<b>All the images and logo are designed by me and belongs to JukeFi ©</b>
 
 
 ---
 
-Enjoy the soothing sounds of lofi music with LofiWebPlayer! Feel free to contribute, open issues, and provide feedback. Happy listening!
+Enjoy the soothing sounds of lofi music with JukeFi! Feel free to contribute, open issues, and provide feedback. Happy listening!
